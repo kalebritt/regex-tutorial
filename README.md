@@ -1,5 +1,4 @@
-# Regex Tutorial Starter Code
-# Title (replace with your title)
+# Regular Expression (RegEx) Tutorial
 
 Introductory paragraph (replace this with your text)
 
@@ -9,8 +8,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Table of Contents
 
-- [Regex Tutorial Starter Code](#regex-tutorial-starter-code)
-- [Title (replace with your title)](#title-replace-with-your-title)
+- [Regular Expression (RegEx) Tutorial](#regular-expression-regex-tutorial)
   - [Summary](#summary)
   - [Table of Contents](#table-of-contents)
   - [Regex Components](#regex-components)
