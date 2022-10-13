@@ -1,6 +1,6 @@
 # Regular Expression (RegEx) Tutorial
 
-Introductory paragraph (replace this with your text)
+I created this tutorial to give a better understanding of the cat-on-the-keyboard 'pattern' of characters known as Regular Expressions, or RegEx.  Click [here](https://en.wikipedia.org/wiki/Regular_expression) for the Wikipedia page of RegEx and [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) for the Mozilla docs when using Regular Expressions in JavaScript.  In this tutorial, I will delve deeper into a specific RegEx code snippet, providing examples and detailed descriptions.  Enjoy!
 
 ## Summary
 
